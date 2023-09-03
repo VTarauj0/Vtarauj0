@@ -30,4 +30,4 @@ I am learning
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" />  - Postgres
 
-![Snake animation](https://github.com/VTarauj0/VTarauj0/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Vtarauj0/Vtarauj0/blob/output/github-contribution-grid-snake.svg)
