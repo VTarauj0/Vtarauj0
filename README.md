@@ -14,19 +14,26 @@
 
 Backend Programming Student
 
-I am learning
+programming language: Java
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />  - Studying Java
+IDEA intelliji
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /> - IDEA intellij
+IDEA SpringBoot 4 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" /> - Oracle
+## I am learning
+
+<div style="display: inline_block">
+ <img align="center" alt="Java"  width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> 
+
+ <img align="center" alt="IDEA intelliji"  width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+
+ <img align="center" alt="oracle"  width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30" />  - API with MongoDB
+ <img align="center" alt="API MongoDB"  width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> - AWS
+ <img align="center" alt="AWS"  width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
-<i class="devicon-postgresql-plain-wordmark colored"></i - PostgreSQL
-          
+ <img align="center" alt="PostgreSQL"  width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+</div><br>          
 
 
