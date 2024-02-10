@@ -26,7 +26,7 @@ I am learning
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> - AWS
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /> - PostgreSQL
+<i class="devicon-postgresql-plain-wordmark colored"></i - PostgreSQL
           
 
 
